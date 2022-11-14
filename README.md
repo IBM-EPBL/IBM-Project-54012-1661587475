@@ -63,7 +63,7 @@ Team ID : **PNT2022TMID24368**
  
  <div align="center">
  [![GitHub Game of Life](https://github4life.herokuapp.com/IBM-EPBL.gif?z=6)](https://github4life.herokuapp.com/IBM-EPBL)
- <center>
+</div>
 
 <img align="right" alt="Coding" width="300" height="400" src="https://cdn-web.gofrugal.com/images/inventory_ctrl/banner_img.svg">
 
