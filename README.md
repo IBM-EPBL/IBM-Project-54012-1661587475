@@ -100,6 +100,8 @@ businesses.</li>
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="890" height="300">
  
+<br></br>
+ 
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
 </p>
