@@ -87,7 +87,14 @@ businesses.</li>
 ## :weight_lifting:Required Skills :
  ![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)   ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/css3.png) ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/javascript.png) ![Tux, the Linux mascot]( https://img.icons8.com/color/48/000000/kubernetes.png) ![Tux, the Linux mascot](https://img.icons8.com/color/48/000000/docker.png)  ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/python.png)  ![Tux, the Linux mascot]( https://img.icons8.com/ios-filled/50/000000/flask.png) ![Tux, the Linux mascot](https://img.icons8.com/nolan/64/ibm.png)
 
-    HTML, CSS, Java Script, IBM Cloud Object Storage, Python-Flask, Kubernetes, Docker, IBM DB2, IBM Container Registry
+    
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+    
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
