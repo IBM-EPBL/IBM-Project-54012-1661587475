@@ -51,7 +51,7 @@ Team ID : **PNT2022TMID24368**
 <h3 align="center">Connect With Us!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h3>
 <center>
  
-![MohamedZainU Git Stats](https://github-readme-stats.vercel.app/api?username=MohamedZainU&include_all_commits=true&count_private=true&theme=highcontrast)
+![Git Stats](https://github-readme-stats.vercel.app/api?username=MohamedZainU&include_all_commits=true&count_private=true&theme=highcontrast)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZainU&theme=chartreuse-dark&hide_border=True" alt="MohamedZainU" /></p>
 
