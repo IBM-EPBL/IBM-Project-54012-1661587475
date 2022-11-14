@@ -101,7 +101,7 @@ businesses.</li>
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
 </p>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="203" height="68">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="890" height="300">
 
 
 
