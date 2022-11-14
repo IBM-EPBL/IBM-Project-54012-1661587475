@@ -52,9 +52,9 @@ Team ID : **PNT2022TMID24368**
 <center>
  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZainU&theme=chartreuse-dark&hide_border=True" alt="MohamedZainU" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IBM-EPBL&theme=chartreuse-dark&hide_border=True" alt="MohamedZainU" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedZainU&theme=onedark)](https://github.com/MohamedZainU)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IBM-EPBL&theme=onedark)](https://github.com/MohamedZainU)
 
 <img align="right" alt="Coding" width="300" height="400" src="https://cdn-web.gofrugal.com/images/inventory_ctrl/banner_img.svg">
 
