@@ -8,7 +8,7 @@
   </div>  -->
  
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Inventory+Management+for+Retailers">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Inventory+Management+System+for+Retailers">
 </p>
   
 
