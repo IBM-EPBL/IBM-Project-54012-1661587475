@@ -53,6 +53,11 @@ Team ID : **PNT2022TMID24368**
  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZainU&theme=chartreuse-dark&hide_border=True" alt="MohamedZainU" /></p>
+ 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/IBM-EPBL/count.svg" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohamedZainU&theme=onedark)](https://github.com/MohamedZainU)
 
