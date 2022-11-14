@@ -96,6 +96,10 @@ businesses.</li>
 ## 🏗️Technical Architecture :
 ![Technical architecture diagram](https://lh3.googleusercontent.com/CREVNwiSXyEeHRqKw-PyOLl3407cgeGKXaoHe4XxiA2BKwElixI7EHYyIo65PCZwi7t7vvg_wvZ6V44M_i9K0n7rk4MkKcfoSGN6GKBwTDVBYVIoon8EfgcBwBiKNA)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ <p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
+</p>
 
 
 
