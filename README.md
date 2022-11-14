@@ -59,7 +59,7 @@ Team ID : **PNT2022TMID24368**
   <img src="https://profile-counter.glitch.me/IBM-EPBL/count.svg" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedZainU&theme=onedark) align="center"](https://github.com/MohamedZainU)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedZainU&theme=onedark align="center")](https://github.com/MohamedZainU)
  
  
  [![GitHub Game of Life](https://github4life.herokuapp.com/IBM-EPBL.gif?z=6)](https://github4life.herokuapp.com/IBM-EPBL)
