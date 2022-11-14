@@ -109,7 +109,9 @@ businesses.</li>
 ![Technical architecture diagram](https://lh3.googleusercontent.com/CREVNwiSXyEeHRqKw-PyOLl3407cgeGKXaoHe4XxiA2BKwElixI7EHYyIo65PCZwi7t7vvg_wvZ6V44M_i9K0n7rk4MkKcfoSGN6GKBwTDVBYVIoon8EfgcBwBiKNA)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
- <p align="center">[![GitHub Game of Life](https://github4life.herokuapp.com/IBM-EPBL.gif?z=6)](https://github4life.herokuapp.com/IBM-EPBL)</p>
+ <br></br>
+ 
+ [![GitHub Game of Life](https://github4life.herokuapp.com/IBM-EPBL.gif?z=6)](https://github4life.herokuapp.com/IBM-EPBL)
  
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="890" height="300">
