@@ -61,7 +61,7 @@ Team ID : **PNT2022TMID24368**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohamedZainU&theme=onedark)](https://github.com/MohamedZainU)
  
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+![IBM-EPBL github activity graph](https://activity-graph.herokuapp.com/graph?username=IBM-EPBLDev&theme=dracula)
 
 
 <img align="right" alt="Coding" width="300" height="400" src="https://cdn-web.gofrugal.com/images/inventory_ctrl/banner_img.svg">
